@@ -1,0 +1,29 @@
+{
+  "name": "hu2veeconvert",
+  "version": "1.0.0",
+  "description": "hu2veeconvert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leishahodges9909/hu2veeconvert.git"
+  },
+  "keywords": [
+    "hu2veeconvert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "leishahodges9909",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leishahodges9909/hu2veeconvert/issues"
+  },
+  "homepage": "https://github.com/leishahodges9909/hu2veeconvert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
